@@ -4,6 +4,8 @@
 
 📖 CE student
 
+💻 Tech savvy
+
 🔭 Learning ...
 
 ### Languages
