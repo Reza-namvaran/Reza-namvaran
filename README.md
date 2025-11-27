@@ -22,6 +22,13 @@
 
 [![View My Gists](https://img.shields.io/badge/-View%20Gists-black?style=for-the-badge&logo=github)](https://gist.github.com/Reza-namvaran)
 
+## Let's Connect!
+<p align=>
+  <a href="mailto:reza.namvaran@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 # 📊 GitHub Stats:
 <div style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reza-namvaran&theme=tokyonight&hide_border=true"
