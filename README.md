@@ -24,7 +24,7 @@
 
 ## Let's Connect!
 <p align=>
-  <a href="mailto:reza.namvaran@gmail.com" target="_blank">
+  <a href="mailto:reza.namvaran823@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
